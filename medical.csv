@@ -1,0 +1,9 @@
+Patient_ID,Name,Age,Gender,Diagnosis,Blood_Pressure,Heart_Rate,Cholesterol
+101,Alice,29.0,F,Diabetes,120/80,78.0,190.0
+102,Bob,45.0,M,Hypertension,140/90,85.0,220.0
+103,Charlie,34.0,M,Asthma,110/70,90.0,
+104,David,,M,Diabetes,135/85,88.0,240.0
+105,Eva,41.0,,Heart Disease,125/80,,210.0
+106,Frank,50.0,M,,145/95,80.0,200.0
+107,,38.0,F,Hypertension,,76.0,230.0
+108,Hannah,,F,Diabetes,130/85,72.0,180.0
